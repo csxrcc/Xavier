@@ -10,7 +10,7 @@ import {
 import RestartDeviceModal from '../components/modals/RestartDeviceModal.jsx';
 import InstallProfileModal from '../components/modals/InstallProfileModal.jsx';
 import RenameDeviceModal from '../components/modals/RenameDeviceModal.jsx';
-import ShutdownDeviceModal from '../components/modals/ShutdownDeviceModal.jsx';
+import ShutdownDeviceModal from '../components/modals/shutdownDeviceModal.jsx';
 import LockDeviceModal from '../components/modals/LockDeviceModal.jsx';
 import EraseDeviceModal from '../components/modals/EraseDeviceModal.jsx';
 import PinHistoryTable from "../components/PinHistoryTable.jsx";
